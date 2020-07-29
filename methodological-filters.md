@@ -24,24 +24,21 @@
 
 # Search Builder for Guidelines
 
-## PubMed
+## Controlled Vocabulary
+
+### PubMed
 
 "guideline"[pt] OR "practice guideline"[pt] OR "consensus"[mesh] OR "consensus development conference, nih"[mesh] OR "consensus development conference"[pt] OR "delphi technique"[mesh]
 
-## Embase 
+### Embase 
 
 'practice guideline'/de OR 'clinical pathway'/exp OR 'clinical protocol'/exp OR 'consensus development'/exp OR 'delphi study'/exp OR 'good clinical practice'/exp OR 'nursing care plan'/exp OR 'nursing protocol'/exp
 
-## The Cochrane Library 
-
-[mh "consensus"] OR [mh "consensus development conference, nih"] OR [mh "delphi technique"]
-
-
-## CINAHL
+### CINAHL
 
 MH "practice guidelines" OR MH "delphi technique"
 
-### Keywords
+## Keywords
 
 appropriate use OR appropriateness OR care plan OR care plans OR consensus OR delphi method OR delphi methods OR delphi methodology OR delphi methodologies OR delphi technique OR delphi techniques OR delphi study OR delphi studies OR guidance OR guideline* OR guide line OR guide lines OR pathway OR position statement OR position statements OR protocol OR standard of care OR standards of care
 
