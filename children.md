@@ -1,5 +1,7 @@
 # Existing Filters
 
+* [ISSG Filters to find age-specific studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1)
+
 # Search Builder for Children
 
 ## Controlled Vocabulary
