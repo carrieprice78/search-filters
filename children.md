@@ -1,6 +1,6 @@
 # Existing Filters
 
-* [ISSG Filters to find age-specific studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1)
+* [ISSG Filters to find age-specific studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups?authuser=0)
 
 # Search Builder for Children
 
