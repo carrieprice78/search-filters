@@ -1,6 +1,6 @@
 # Existing Filters
 
-* [ISSG Search Filters to find studies of geographic locations](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/filters-to-find-studies-of-geographic-locations)
+* [ISSG Search Filters to find studies of geographic locations](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/geography?authuser=0)
 
 # Cochrane Low- and Middle-Income Countries (LMICS)
 
