@@ -4,7 +4,7 @@
 
 ### PubMed
 
-activities of daily living"[mesh] OR "occupational therapists"[mesh] OR "occupational therapy"[mesh] OR "occupational therapy department, hospital"[mesh] OR "rehabilitation, vocational"[mesh]
+"activities of daily living"[mesh] OR "occupational therapists"[mesh] OR "occupational therapy"[mesh] OR "occupational therapy department, hospital"[mesh] OR "rehabilitation, vocational"[mesh]
 
 ## Keywords
 
