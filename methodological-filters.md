@@ -4,7 +4,7 @@
 
 ## Guidelines
 
-* [ISSG Filters to Identify Guidelines](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-guidelines)
+* [ISSG Filters to Identify Guidelines](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/guidelines?authuser=0)
 
 ## Miscellaneous
 
@@ -20,7 +20,7 @@
 
 ## Systematic Reviews
 
-* [ISSG Filters to IDentify Systematic Reviews](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-systematic-reviews)
+* [ISSG Filters to Identify Systematic Reviews](hhttps://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/systematic-reviews?authuser=0)
 
 # Search Builder for Guidelines
 
